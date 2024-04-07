@@ -7,6 +7,6 @@
 ### 環境構築
 * docker-compose up --build -d
 ### Docker起動
-* docker-compose up
+* docker-compose up -d
 ### Docker停止
 * docker-compose down
